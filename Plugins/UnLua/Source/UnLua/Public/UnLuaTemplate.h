@@ -17,6 +17,7 @@
 #include "CoreUObject.h"
 #include "Misc/EngineVersionComparison.h"
 #include <type_traits>
+#include "Templates/ChooseClass.h"
 
 namespace UnLua
 {
